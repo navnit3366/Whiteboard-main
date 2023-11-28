@@ -1,0 +1,27 @@
+P:[A force between two objects]
+A:[Gravity]
+
+P:[Unit of measurement for work (NM)]
+A:[Newton Meter]
+
+P:[Energy used to push or pull an object]
+A:[Force]
+
+P:[When an object is moved in the same direction as the force is applied]
+A:[Work]
+
+P:[The amount of matter in an object]
+A:[Mass]
+
+P:[Unit of measurement of force]
+A:[Newton]
+
+P:[The force of gravity on an object]
+A:[Weight]
+
+P:[Unit of measurement for work (J)]
+A:[Joules]
+
+P:[Who are the wizards?]
+A:[Team No Name]
+
